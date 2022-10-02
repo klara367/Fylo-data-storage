@@ -144,10 +144,9 @@ body {
 @media only screen and (min-width:768px) {
 
     body {
-        background-color: var(--very-dark-blue);
         background-image: url(./images/bg-desktop.png);
         background-repeat: no-repeat;
-        background-position: bottom;
+        background-position-y: 125%;
         background-size: contain;
     }
 
